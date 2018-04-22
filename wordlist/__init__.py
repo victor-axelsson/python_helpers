@@ -1,0 +1,1 @@
+from helpers.wordlist.wordlist import Wordlist
